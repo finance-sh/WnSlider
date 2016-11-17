@@ -1,0 +1,17 @@
+{
+  "name": "WnSlider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slider.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider"
+  ],
+  "author": "liwencheng",
+  "license": "ISC"
+}
