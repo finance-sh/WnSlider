@@ -13,5 +13,7 @@
     "slider"
   ],
   "author": "liwencheng",
-  "license": "ISC"
+  "license": "ISC",
+  "ownModuleDependencies": "",
+  "ownModuleDownLoadPath": ""
 }
